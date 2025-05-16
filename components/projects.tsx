@@ -38,8 +38,8 @@ export default function Projects() {
       description: "Designed and coded a personal portfolio website to showcase my skills and projects.",
       image: "/images/portfolio.png",
       category: "Web",
-      technologies: ["React", "Ant Design"],
-      codeLink: "#",
+      technologies: ["Next.js", ],
+      codeLink: "https://github.com/Muhammad-Zakii/my-portfolio-v3",
     },
    
     {
